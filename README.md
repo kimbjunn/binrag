@@ -1,6 +1,6 @@
 # BinRAG
 
-Implementation of Retrieval-Augmented Generation for Function Name Inference in Stripped Binaries.
+Implementation of BinRAG: A RAG-based System for Function Name Inference on Stripped Binaries.
 
 ## Overview
 
