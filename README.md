@@ -49,6 +49,11 @@ This project uses the ktrans pre-trained model for assembly code embedding. To s
 - **remove_sub_functions.py**: Remove non-symbol functions
 - **remove_zn_functions.py**: Remove mangled functions
 
+## Sample Database
+You can download sample database in our google drive.
+https://drive.google.com/file/d/1qDyVOjEsRqJnfwCN2SY9Sq3zxORMQ_3z/view?usp=sharing
+
+
 ## Usage
 
 ### Build DB
